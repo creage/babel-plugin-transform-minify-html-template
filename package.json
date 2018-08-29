@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-transform-minify-html-template",
+  "version": "1.0.0",
+  "description": "A plugin for Babel 7 that removes whitespace and minifies html written using template strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creage/babel-plugin-transform-minify-html-template.git"
+  },
+  "keywords": [
+    "babel",
+    "html",
+    "minify"
+  ],
+  "author": "Aziz Gazanchiian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creage/babel-plugin-transform-minify-html-template/issues"
+  },
+  "homepage": "https://github.com/creage/babel-plugin-transform-minify-html-template#readme"
+}
